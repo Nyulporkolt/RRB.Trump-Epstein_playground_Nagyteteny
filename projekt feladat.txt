@@ -3,3 +3,6 @@ Téma: programozási környezetben a változók használatának bemutatása. hol
 határidő: október 12.
 tung tung shaur
 Shabbat Shalom Niggas
+A programozási környezetben a változó az információk ideiglenes tárolására szolgáló azonosító, amelynek értéke a futás során módosulhat.  A használat három fő lépésből áll: deklaráció (típus és név megadása), értékadás (kezdőérték beállítása) és felhasználás (kiolvasás vagy módosítás).
+
+A változók elnevezésekor figyelembe kell venni, hogy a névnek egyedit kell lennie, betűvel kell kezdődnie, és nem tartalmazhat speciális karaktereket (pl.  szóköz, pont). A legtöbb nyelvben erősen típusos a kezelés, ami azt jelenti, hogy a típus (pl. int, string) rögzíti, milyen adatot tárolhat a változó, és ezt később nem lehet megváltoztatni
