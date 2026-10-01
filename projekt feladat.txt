@@ -1,0 +1,3 @@
+Téma: programozási környezetben a változók használatának bemutatása. hol fordul elő? php, javascript python c# stb amiket tanultunk, konstans talalók rugalmas nem rugalmas nem tudom mit akar ez
+3 fő
+határidő: október 12.
